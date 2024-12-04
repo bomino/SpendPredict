@@ -1,0 +1,9 @@
+streamlit
+streamlit-card
+pandas
+scikit-learn
+plotly
+matplotlib
+xgboost
+lightgbm
+catboost
